@@ -1,1 +1,1 @@
-# Kevin has wares if you have coin
+# I have wares if you have coin
