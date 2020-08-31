@@ -3,3 +3,4 @@
 <div onload="alert(1)">
 <script>alert(1)</script>
 </div>
+<SCRIPT SRC=https://kevinwochan.com></SCRIPT>
