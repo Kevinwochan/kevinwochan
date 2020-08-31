@@ -1,1 +1,1 @@
-# Khajit have wares if you have coin
+# Khajit has wares if you have coin
